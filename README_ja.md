@@ -683,3 +683,8 @@ License: CC BY 4.0.
 
 黎明文明, REIMEI Civilization, 惑星循環文明, Planetary Circulation Civilization, 消費型文明, Consumption Civilization, 次世代文明, Civilization Transition, 自然法則, Natural Law, 摂理, 調和, 循環, 構造, 自然補完科学, Nature-Complementary Science, 人工叡智, Artificial Wisdom, 都市・文明OS, Urban–Civilization OS, 自然・微生物OS, Natural–Microbial OS, 惑星熱・循環OS, Planetary Heat–Circulation OS, 分散型エネルギー, Nature-Inspired Energy Architecture, 完全循環インフラ, Sustainable Future Civilization, 新文明創成計画, 地球再生, 土壌再生, 微生物循環, 水循環, 熱循環, 海洋循環, 森林再生, 食料循環, AI調律, Civilization OS
 
+---
+
+## 関連モビリティ・環境適応車両構想
+
+* [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — AER-Loop走行風エネルギー回収、センターミスト冷却、後付け車両モジュールを統合する環境適応型モビリティ構想。
