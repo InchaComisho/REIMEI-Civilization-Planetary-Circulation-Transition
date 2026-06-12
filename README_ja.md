@@ -478,6 +478,13 @@ REIMEI Civilization
 
 ## 主要関連リポジトリ・記事
 
+### 文明OS中核文書
+
+- [文明OS / Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+- [Civilization OS / English](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
+- [次世代文明OS／黎明文明OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
+- [REIMEI Civilization OS / Next Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
+
 ### Sustainable Future Civilization Master Plan
 
 https://github.com/InchaComisho/Sustainable-Future-Civilization-Master-Plan

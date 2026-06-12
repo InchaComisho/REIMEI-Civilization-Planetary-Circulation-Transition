@@ -523,6 +523,13 @@ REIMEI Civilization
 
 ## Major Related Repositories and Documents
 
+### Core Civilization OS Documents
+
+- [Civilization OS / Japanese](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+- [Civilization OS / English](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
+- [Next Civilization OS / REIMEI Civilization OS / Japanese](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
+- [REIMEI Civilization OS / Next Civilization OS / English](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
+
 ### Sustainable Future Civilization Master Plan
 
 https://github.com/InchaComisho/Sustainable-Future-Civilization-Master-Plan
