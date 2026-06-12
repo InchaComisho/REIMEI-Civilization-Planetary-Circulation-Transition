@@ -14,6 +14,7 @@ https://note.com/inchacomusho/n/n97184e422c9e
 This document is part of the **Civilization OS** and **REIMEI Civilization OS / Next Civilization OS** framework.  
 It serves as the upper-level portal organizing the transition from consumption civilization to planetary circulation civilization.
 
+- [Civilization OS Framework (Integrated Portal)](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README.md)
 - [Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
 - [REIMEI Civilization OS / Next Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
 

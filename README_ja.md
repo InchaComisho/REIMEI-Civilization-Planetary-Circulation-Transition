@@ -14,6 +14,7 @@ https://note.com/inchacomusho/n/n97184e422c9e
 本ドキュメントは、**文明OS / Civilization OS** および **次世代文明OS／黎明文明OS** 体系の一部です。  
 消費型文明から惑星循環文明への移行を整理する上位ポータル文書として位置づけられます。
 
+- [Civilization OS Framework / 文明OS体系（統合ポータル）](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
 - [文明OS / Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
 - [次世代文明OS／黎明文明OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
 
