@@ -9,6 +9,16 @@ https://note.com/inchacomusho/n/n97184e422c9e
 
 ---
 
+## Position within the Civilization OS Framework
+
+This document is part of the **Civilization OS** and **REIMEI Civilization OS / Next Civilization OS** framework.  
+It serves as the upper-level portal organizing the transition from consumption civilization to planetary circulation civilization.
+
+- [Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
+- [REIMEI Civilization OS / Next Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
+
+---
+
 ## Overview
 
 **REIMEI Civilization** is a conceptual model for transitioning from a one-way **consumption civilization** — one that extracts, uses, and discards resources — toward a **planetary circulation civilization** that reintegrates heat, water, soil, microbes, forests, oceans, food systems, energy systems, cities, and AI into planetary-scale cycles.

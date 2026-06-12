@@ -9,6 +9,16 @@ https://note.com/inchacomusho/n/n97184e422c9e
 
 ---
 
+## 文明OS体系における位置づけ
+
+本ドキュメントは、**文明OS / Civilization OS** および **次世代文明OS／黎明文明OS** 体系の一部です。  
+消費型文明から惑星循環文明への移行を整理する上位ポータル文書として位置づけられます。
+
+- [文明OS / Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+- [次世代文明OS／黎明文明OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
+
+---
+
 ## 概要
 
 **黎明文明（REIMEI Civilization）** とは、資源を掘り、使い、捨てる一方通行型の **消費型文明** から、熱・水・土壌・微生物・森林・海洋・食料・エネルギー・都市・AIを、惑星規模の循環の中へ再統合する **惑星循環文明** への移行モデルである。
